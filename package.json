@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chairuosen/vue-ace-editor.git"
+    "url": "git+https://github.com/viraj-khatavkar/vue-ace-editor.git"
   },
   "author": "chairuosen",
   "license": "MIT",
